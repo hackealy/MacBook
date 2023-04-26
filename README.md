@@ -4,6 +4,6 @@ Inicie o servidor de escuta em seu ambiente controlado em outra máquina ou em u
 
 Execute o arquivo de script no seu Macbook digitando o seguinte comando no terminal:
 
- # python reverse_shell.py
-
+ # python reverseshell.py
+ 
 Após a execução do arquivo de script, você deve ver uma conexão estabelecida no servidor de escuta. Agora você pode enviar comandos do servidor para o seu Macbook e obter a saída dos comandos executados no seu terminal.
